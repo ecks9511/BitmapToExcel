@@ -1,0 +1,5 @@
+C:\Users\Jeremy\source\repos\ImageToExcelCSharp\ImageToExcelCSharp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\Jeremy\source\repos\ImageToExcelCSharp\ImageToExcelCSharp\obj\Debug\netcoreapp3.1\ImageToExcelCSharp.csproj.ResolveComReference.cache
+C:\Users\Jeremy\source\repos\ImageToExcelCSharp\ImageToExcelCSharp\obj\Debug\netcoreapp3.1\ImageToExcelCSharp.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\ImageToExcelCSharp\ImageToExcelCSharp\obj\Debug\netcoreapp3.1\ImageToExcelCSharp.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\ImageToExcelCSharp\ImageToExcelCSharp\obj\Debug\netcoreapp3.1\ImageToExcelCSharp.csproj.CoreCompileInputs.cache
